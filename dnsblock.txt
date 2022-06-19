@@ -1,0 +1,8 @@
+# block douyin
+||douyinvod.com^
+||douyincdn.com^
+||douyinpic.com^
+||bytefcdn.com^
+||ctdns.cn^
+||ksyuncdn.com^
+/douyin*/
